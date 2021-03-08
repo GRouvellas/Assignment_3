@@ -1,2 +1,2 @@
 # Assignment_3
-A Strategy Pattern scenario
+A Strategy Pattern scenario.
